@@ -11,4 +11,4 @@
 - transfer `.BMP` to `.C` by BmpCvST
 
 ## Function
-Please check Introduction file to get more information.
+Please check [Introduction](https://github.com/anselyu0701/EmbeddedDesign_Tamagotchi/blob/main/Introduction.pdf) file to get more information.
